@@ -1,0 +1,44 @@
+.App {
+  position: relative;
+  text-align: center;
+  background-image: linear-gradient(#ADD8E6, white);
+  background-size: cover;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.temperature{
+  font-size: 200px;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  top:40px;
+  font-weight: bold;
+}
+
+
+.m-right{
+position: absolute;
+top: 30px;
+right: 70px;
+ 
+}
+
+.App-header{
+  font-size: 40px;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+}
+
+.weather{
+  align-items: center;
+  column-count: 5;
+  font-size:50px;
+  color: grey
+
+}
