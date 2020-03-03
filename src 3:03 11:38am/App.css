@@ -1,0 +1,15 @@
+.App {
+  position: relative;
+  text-align: center;
+  background-image: linear-gradient(#ADD8E6, white);
+  background-size: cover;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.m-right{
+position: absolute;
+top: 30px;
+right: 9px;
+}
