@@ -1,0 +1,60 @@
+h2 {
+  color: white;
+}
+
+#Ltitle {
+  text-align: center;
+}
+
+#language {
+  height: 85px;
+  width: 85px;
+}
+
+#eng {
+  height: 85px;
+  width: 85px;
+  margin-top: 15px;
+}
+.languages{
+  margin-top: 15px;
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.desc {
+  text-align: justify;
+  width: 85px;
+  height: 60px;
+  padding-top: 20px;
+}
+
+.port {
+  text-align: justify;
+  width: 100px;
+  height: 60px;
+  padding-top: 20px;
+}
+
+.first::after{
+  content: " ";
+  clear: both;
+  display: table;
+}
+
+.second::after{
+  content: " ";
+  clear: both;
+  display: table;
+}
+
+.logo {
+  position: absolute;
+  bottom: 0;
+}
+
+.LApp {
+  background-image: linear-gradient(#ADD8E6, white);
+  background-size: cover;
+  padding-top: 20%;
+}
