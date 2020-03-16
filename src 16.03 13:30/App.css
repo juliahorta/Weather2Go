@@ -1,0 +1,89 @@
+.App {
+  position: relative;
+  text-align: center;
+  background-image: linear-gradient(#ADD8E6, white);
+  background-size: cover;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.m-right{
+position: absolute;
+top: 30px;
+right: 9px;
+}
+
+.upper-center{
+  padding-top: 25%;
+  color: white;
+  padding-bottom: 10%;
+}
+
+.main-center {
+  height: 100px;
+  width: 350px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding-left: 15px;
+  padding-right: 0;
+  padding-bottom: 0;
+  margin-bottom: -20px;
+}
+
+h4 {
+  font-size: 15px;
+}
+
+h1 {
+  font-size: 90px;
+}
+
+h6 {
+  color: #a5a6a8;
+}
+
+.wi {
+  color: #a5a6a8;
+  font-size: 160%
+}
+
+.temp {
+  text-align: center;
+  display: inline-block;
+  padding-right: 10px;
+  padding-left: 10px
+}
+
+.logo {
+  position: absolute;
+  bottom: 0;
+}
+
+#attraction {
+  height: 150px;
+  width: 200px;
+}
+
+#head {
+  text-align: left;
+  padding-left: 15px;
+  font-weight: bold;
+}
+
+.AOTD {
+  text-align: left;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 330px;
+  width: 350px;
+  padding-left: 15px;
+}
+
+.desc {
+  float: right;
+  width: 120px;
+  height: 60px;
+  padding-top: 50px;
+}
