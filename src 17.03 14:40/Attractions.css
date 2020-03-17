@@ -1,0 +1,56 @@
+
+
+#Atitle {
+  text-align: center;
+  color: white;
+}
+
+#attraction {
+  height: 150px;
+  width: 200px;
+}
+
+.main {
+  text-align: left;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 620px;
+  width: 350px;
+  padding-left: 15px;
+}
+
+.desc h6 {
+  float: right;
+  text-align: left;
+  width: 120px;
+  height: 60px;
+  padding-top: 50px;
+  padding-right: 5px;
+}
+
+.logo {
+  position: absolute;
+  bottom: 0;
+}
+
+.AApp {
+  background-image: linear-gradient(#ADD8E6, white);
+  background-size: cover;
+  padding-top: 20%;
+}
+
+.box h3 h2 p{
+  font-size: 10px;
+  text-align: center;
+}
+
+.box{
+    border: 2px solid black;
+    width: 65px;
+    height: 75px;
+}
+
+.out {
+  padding-right: 3px;
+  padding-left: 3px;
+}
