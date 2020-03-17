@@ -1,0 +1,14 @@
+.mainn{
+  text-align: center;
+  height: 240px;
+  width: 250px;
+  color: black;
+}
+
+.card{
+  width: 10rem;
+  height: 14rem;
+}
+#day{
+  font-size: 1.25rem;
+}
