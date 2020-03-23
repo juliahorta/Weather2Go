@@ -1,0 +1,25 @@
+.container {
+  text-align: left;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 620px;
+  width: 350px;
+  margin: 0;
+}
+
+h5{
+  text-align: center;
+}
+
+.column{
+  display: grid;
+  float: right;
+}
+
+#tosuggestion1{
+  margin-top: 6rem;
+}
+
+#tosuggestion2, #tosuggestion3, #tosuggestion4, #tosuggestion5 {
+  margin-top: 11rem;
+}
